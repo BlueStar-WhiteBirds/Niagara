@@ -1,2 +1,2 @@
 # Niagara
-Poetic programming
+Random ideas
